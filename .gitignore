@@ -4,3 +4,4 @@ data/transformed/*
 _targets/
 backups/
 datos_transformados/
+.Rhistory
