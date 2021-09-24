@@ -1,0 +1,6 @@
+.Rproj.user/
+data/originals/*
+data/transformed/*
+_targets/
+backups/
+datos_transformados/
